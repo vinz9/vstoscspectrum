@@ -1,0 +1,16 @@
+Copyright (C) 2016 Vincent Houze
+
+Licensed GPL v3 though many portions of the code are dual-licensed under other 
+free/open source licenses.  See copying.txt
+
+Third Party code :
+
+VSTGL OpenGL Framework
+http://www.niallmoody.com/ndcplugs/vstgl.htm
+Copyright (c) 2005-2006 Niall Moody
+MIT License
+
+oscpack -- Open Sound Control packet manipulation library
+http://www.audiomulch.com/~rossb/oscpack
+Copyright (c) 2004-2005 Ross Bencina <rossb@audiomulch.com>
+MIT License
